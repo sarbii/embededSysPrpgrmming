@@ -1,0 +1,1 @@
+cmd_/home/pi/Desktop/class/1105/hello.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/Desktop/class/1105/hello.ko /home/pi/Desktop/class/1105/hello.o /home/pi/Desktop/class/1105/hello.mod.o ;  true
